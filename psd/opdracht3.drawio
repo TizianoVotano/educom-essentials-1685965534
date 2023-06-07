@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="-SsTG6D-6UE7b-3sOHdS" name="Page-1">
+        <mxGraphModel dx="1594" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="nummer, prijs, aantalSnickers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="nummer ingeven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="40" width="280" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="76.25" width="280" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Ja&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="156.25" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="bestaatNummer?&amp;nbsp;" style="triangle;whiteSpace=wrap;html=1;fillColor=default;rotation=90;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="275" y="-25" width="77.5" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="186.25" width="150" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Ja&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="266.25" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="aantalSnickers &amp;gt; 0?" style="triangle;whiteSpace=wrap;html=1;fillColor=default;rotation=90;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="146.25" y="150" width="77.5" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Foutmelding: &quot;Ingevoerde code bestaat niet, probeer nogmaals&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="186.25" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="302.5" width="150" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Ja&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Nee" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="382.5" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="prijs &amp;gt;= ingegevenGeld?" style="triangle;whiteSpace=wrap;html=1;fillColor=default;rotation=90;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="76.25" y="266.25" width="77.5" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Foutmelding: &quot;Het bedrag is niet voldoende&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="412.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Snickers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="412.5" width="120" height="27.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Wisselgeld" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="445" width="120" height="27.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Foutmelding: &quot;Het gekozen product is op, kies een ander&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="302.5" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
