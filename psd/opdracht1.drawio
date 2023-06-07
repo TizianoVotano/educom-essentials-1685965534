@@ -1,0 +1,70 @@
+<mxfile host="65bd71144e">
+    <diagram id="WRcVri_BY7Nv42qnoWSC" name="Page-1">
+        <mxGraphModel dx="832" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Plaats je handen aan het begin van het bureau" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" width="340" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;zolang rakenVoetenGrond == true&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=default;perimeterSpacing=0;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="50" width="340" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="voeten zo veel mogelijk naar achter schuiven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="90" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;zijnArmenLoodrecht == false&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=default;perimeterSpacing=0;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="120" width="340" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="duw je rustig weg van het bureau met je armen (met hulp van je benen)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="160" width="300" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="draai je stoel 90° naar links (richting de deur)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="190" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Sta op" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="220" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="hou je handen op knie-hoogte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="250" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="zet 1 grote stap voorwaarts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="280" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="310" width="340" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Ja:&amp;nbsp;hou dezelfde richting aan en zet een kleine stap naar links&lt;br&gt;Nee: -" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="390" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="voelenHandenObject ?" style="triangle;whiteSpace=wrap;html=1;fillColor=default;rotation=90;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="226.25" y="183.75" width="77.5" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;opacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="290" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Hou je handen voor je uit (voor de kast)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="420" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Zet 2 grote stappen en 1 kleine stap voorwaarts, plooi ellebogen totdat je tegen de kast staat" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="450" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Draai naar rechts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="480" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="1 kleine stap voorwaarts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="510" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="1 kleine stap naar links" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="540" width="340" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="1 grote stap voorwaarts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="570" width="340" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
